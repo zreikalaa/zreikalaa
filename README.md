@@ -44,4 +44,4 @@
   <img align="left" alt="Numpy" width="80px"  src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zreikalaa&show_icons=true&locale=en&layout=compact" alt="zreikalaa" /></p>
+
