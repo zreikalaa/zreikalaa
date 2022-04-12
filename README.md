@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
+- 🔭 I’m a PhD Researcher in Data Science looking for job opportunities
+
 - 🌱 I’m still developping my skills in Deep Learning, Machine Learning and Data Visualization
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VpGt0MLf4HgNVvMigy6DiwVWgi5q9g8v/view?usp=sharing)
