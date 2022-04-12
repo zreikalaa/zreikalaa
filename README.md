@@ -13,7 +13,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=zreikalaa&color=blueviolet" alt="zreikalaa" /> </p></div>
 </p>
 
-<strong>Some libraries I am working with currently :computer::</strong>
+<strong>Some Languages, Libraries and Tools I am working with currently :computer::</strong>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
