@@ -3,7 +3,7 @@
 
 - 🌱 I’m still developping my skills in Deep Learning, Machine Learning and Data Visualization
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VpGt0MLf4HgNVvMigy6DiwVWgi5q9g8v/view?usp=sharing](https://drive.google.com/file/d/1VpGt0MLf4HgNVvMigy6DiwVWgi5q9g8v/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VpGt0MLf4HgNVvMigy6DiwVWgi5q9g8v/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
